@@ -22,7 +22,7 @@ NODE_ENV=development
 
 ## 3. Tipos TypeScript
 
-Crie um arquivo `backend/src/types/index.ts` com as definições de tipos:
+Cri um arquivo `backend/src/types/index.ts` com as definições de tipos:
 
 ```typescript
 // backend/src/types/index.ts
